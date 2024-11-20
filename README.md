@@ -1,5 +1,7 @@
 # Qr-code-for-laser-cut
-An important description of the experience for using qr code for laser cutting  
+An important description of the experience for using qr code for laser cutting.  
+
+**I consider it important to add qr code to ready-made models, organically fitting them into the design, as far as possible, because this will help other users repeat your project, modify it, understand how and why to use it, as well as in case of a breakdown, understand how to fix it, spending the least amount of time on what you have already invented**  
 
 In  [Organizer-for-a-drill-parts-poject](https://github.com/m2415146/Organizer-for-a-drill-parts) , I had the need to use qr code for laser cutting. at the moment, I am using a combination of creating a surface in the rhinoceros program, further exporting to .dxf format and further adapting for cutting in the CorelDRAW program  
 
