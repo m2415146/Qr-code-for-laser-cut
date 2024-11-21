@@ -26,6 +26,11 @@ I also tried using a QR code generator for 3D printing ( [QR code 2 stl](https:/
 
 ![Screenshot_163](https://github.com/user-attachments/assets/84d09db4-c195-4440-b6fe-c042b681db0a)  
 
+This how il looks like in rhino. I think it can be a convenient tool for 3D printing and then coloring the code manually or printing with 2 colors.  
+
+![Screenshot_165](https://github.com/user-attachments/assets/42e97251-1ec0-4cc3-aa72-b3f2b7c1e433)
+
+
 ## Qr code plugin in Rhinoceros  
 
 I also found a plugin for RHino that generates a QR code, but I couldn’t figure out how to use it  [QR Rhino](https://www.food4rhino.com/en/resource/qr-code-generator)   
