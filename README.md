@@ -1,9 +1,15 @@
 # Qr-code-for-laser-cut
 An important description of the experience for using qr code for laser cutting.  
 
-**I consider it important to add qr code to ready-made models, organically fitting them into the design, as far as possible, because this will help other users repeat your project, modify it, understand how and why to use it, as well as in case of a breakdown, understand how to fix it, spending the least amount of time on what you have already invented**  
+## Main idea
+
+**I consider it important to add qr code to ready-made models, organically fitting them into the design, as far as possible, because this will help other users repeat your project, modify it, understand how and why to use it, as well as in case of a breakdown, understand how to fix it, spending the least amount of time on what you have already invented**    
+
+## My experinece
 
 In  [Organizer-for-a-drill-parts-poject](https://github.com/m2415146/Organizer-for-a-drill-parts) , I had the need to use qr code for laser cutting. at the moment, I am using a combination of creating a surface in the rhinoceros program, further exporting to .dxf format and further adapting for cutting in the CorelDRAW program  
+
+## Making a QR code online  
 
 it turned out that inserting QR into RHino, as well as into CorelDRAW itself, is not such an easy task. QR can be created using various services - for example, such:
 [QR code generator](http://qrcoder.ru/?t=1/)  
@@ -20,6 +26,10 @@ I also tried using a QR code generator for 3D printing ( [QR code 2 stl](https:/
 
 ![Screenshot_163](https://github.com/user-attachments/assets/84d09db4-c195-4440-b6fe-c042b681db0a)  
 
+## Qr code plugin in Rhinoceros  
+
 I also found a plugin for RHino that generates a QR code, but I couldn’t figure out how to use it  [QR Rhino](https://www.food4rhino.com/en/resource/qr-code-generator)   
+
+## Making Qr code in COrelDraw
 
 I want to test the qr code generator in the CorelDRAW program for this task
