@@ -37,4 +37,44 @@ I also found a plugin for RHino that generates a QR code, but I couldn’t figur
 
 ## Making Qr code in COrelDraw
 
-I want to test the qr code generator in the CorelDRAW program for this task
+I want to test the qr code generator in the CorelDRAW program for this task.  
+
+Unfortunately, CorelDRAW generates a Qr code that turns out to be too small to cut on a laser machine 
+
+![photo_5346208113210025771_y](https://github.com/user-attachments/assets/dcf3cd1d-d844-4869-a6b1-80a0b97f13a7)  
+
+during the simulation in the program, it is read from the computer screen by the phone, whereas during laser cutting the image remains readable, but is not perceived by the phone as a link  
+
+Several attempts have been made using two-tone acrylic and an acrylic-like material. the result turned out to be the same during all attempts  
+
+![photo_5343948964707296411_y](https://github.com/user-attachments/assets/ccfc2bd6-b934-428e-9afd-e72ed9b16ded)  
+
+![photo_5330043097553429044_y](https://github.com/user-attachments/assets/bf126a16-8a62-4ac3-83da-b09ff259de7e)  
+
+**CorelDRAW allows you to generate a QR code, but does not allow you to edit its design, which makes it difficult to use it in cases where it is difficult to achieve high image accuracy**  
+
+## Results  
+
+**in my experience, if you need to create a qr code for laser cutting, about 4*5 cm in size, you need to abandon such an idea after considering other options**  
+
+## Another opportunities  
+
+1) **change the scale if possible**  
+
+we make the QR code larger and it becomes easier to engrave small details  
+
+2) **try to find a way that will allow you to create a QR code from larger elements**
+
+if I couldn't find one, it doesn't mean that it doesn't exist. please, if you find a similar way, let me know
+
+3) **change qr code to text link**
+
+It won’t look as harmonious, but it will work and it will be easier to make it readable on a phone. since there is a dependence between the number of characters in the link and the detail of the qr code, it is possible to use services that allow you to make the link shorter - perhaps this will solve this problem
+
+![photo_5343948964707296415_y](https://github.com/user-attachments/assets/17e40b23-2e1d-465d-b04d-8e770e8afd13)
+
+
+
+
+
+
